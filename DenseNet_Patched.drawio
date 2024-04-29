@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T02:23:54.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="SZnaTWFMSg2vAiHCjsCs" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-29T03:41:37.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="wFZwQ6JoVOwYypJ7GA2C" version="24.3.1" type="github">
   <diagram name="페이지-1" id="luRm6ZoS_67JZN6vgYwa">
-    <mxGraphModel dx="727" dy="373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1818" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -737,7 +737,7 @@
             <mxPoint x="1199" y="1007" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4NQOsVs-KkwyuoudooMm-22" value="240, 240, 80" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=none;opacity=0;" parent="1" vertex="1">
+        <mxCell id="4NQOsVs-KkwyuoudooMm-22" value="128 x 128 x 128" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=none;opacity=0;" parent="1" vertex="1">
           <mxGeometry x="293.5" y="960.5" width="95" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4NQOsVs-KkwyuoudooMm-23" value="480 x 480 x 160" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=none;opacity=0;" parent="1" vertex="1">
@@ -919,7 +919,7 @@
         <mxCell id="4NQOsVs-KkwyuoudooMm-65" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="650.61" y="987.5" width="30" height="33.33" as="geometry" />
         </mxCell>
-        <mxCell id="4NQOsVs-KkwyuoudooMm-66" value="2 x 240 x 240 x 80" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=none;opacity=0;" parent="1" vertex="1">
+        <mxCell id="4NQOsVs-KkwyuoudooMm-66" value="2 x 128 x 128 x 128" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=none;opacity=0;" parent="1" vertex="1">
           <mxGeometry x="627.11" y="958.5" width="95" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4NQOsVs-KkwyuoudooMm-69" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;rounded=0;" parent="1" vertex="1">
