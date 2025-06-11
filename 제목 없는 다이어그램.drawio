@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="페이지-1" id="rAMjP0j8cEk-adjcRAu2">
-    <mxGraphModel dx="2253" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2466" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -302,7 +302,7 @@
         <mxCell id="iFfEmghWtS2SoP-kBpSy-125" value="(b) the full process of the patch-wise training. Clusters are passed into a detection model, then merged into original image sized mask. Each cluster in the full mask is re-patched by located at the center of the patch." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1454.68" y="1220" width="620.65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iFfEmghWtS2SoP-kBpSy-127" value="patched image + 3D x (red), y (yellow), z (blue) coordinate planes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="iFfEmghWtS2SoP-kBpSy-127" value="patched image + 3D x- (red), y- (yellow), z- (blue) coordinate planes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="1299.68" y="1099.19" width="335.93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yCWk3XB4EfkuJCDQ4kM0-12" value="" style="group" parent="1" vertex="1" connectable="0">
