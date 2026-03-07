@@ -1,0 +1,87 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15" version="29.4.0">
+  <diagram name="Page-1" id="nWXrvJMHSoaZjR30DVqR">
+    <mxGraphModel dx="1394" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PL_vA-EPefCiQh_TElrw-17" edge="1" parent="1" source="PL_vA-EPefCiQh_TElrw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PL_vA-EPefCiQh_TElrw-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PL_vA-EPefCiQh_TElrw-19" edge="1" parent="1" source="PL_vA-EPefCiQh_TElrw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PL_vA-EPefCiQh_TElrw-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PL_vA-EPefCiQh_TElrw-20" edge="1" parent="1" source="PL_vA-EPefCiQh_TElrw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PL_vA-EPefCiQh_TElrw-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PL_vA-EPefCiQh_TElrw-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="방과후 학교 관리 시스템" vertex="1">
+          <mxGeometry height="50" width="155" x="348" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PL_vA-EPefCiQh_TElrw-16" edge="1" parent="1" source="PL_vA-EPefCiQh_TElrw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PL_vA-EPefCiQh_TElrw-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PL_vA-EPefCiQh_TElrw-11" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="학생 관리" vertex="1">
+          <mxGeometry height="80" width="80" x="240" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="PL_vA-EPefCiQh_TElrw-21" edge="1" parent="1" source="PL_vA-EPefCiQh_TElrw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PL_vA-EPefCiQh_TElrw-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PL_vA-EPefCiQh_TElrw-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="출결 관리" vertex="1">
+          <mxGeometry height="80" width="80" x="385.5" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="PL_vA-EPefCiQh_TElrw-23" edge="1" parent="1" source="PL_vA-EPefCiQh_TElrw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PL_vA-EPefCiQh_TElrw-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PL_vA-EPefCiQh_TElrw-14" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="교육 안내" vertex="1">
+          <mxGeometry height="80" width="80" x="530" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="PL_vA-EPefCiQh_TElrw-25" edge="1" parent="1" source="PL_vA-EPefCiQh_TElrw-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="PL_vA-EPefCiQh_TElrw-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PL_vA-EPefCiQh_TElrw-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&amp;nbsp; &amp;nbsp;- 학생 정보 등록&lt;div&gt;&amp;nbsp; &amp;nbsp;- 반 / 프로그램 관리&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp;- 프로그램 신청 관리&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="PL_vA-EPefCiQh_TElrw-27" edge="1" parent="1" source="PL_vA-EPefCiQh_TElrw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="426" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PL_vA-EPefCiQh_TElrw-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&amp;nbsp; &amp;nbsp;- QR코드 출석 체크&lt;div&gt;&amp;nbsp; &amp;nbsp;- 출결 기록 자동 저장&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- 출석률 자동 계산&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="365.5" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="PL_vA-EPefCiQh_TElrw-28" edge="1" parent="1" source="PL_vA-EPefCiQh_TElrw-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PL_vA-EPefCiQh_TElrw-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PL_vA-EPefCiQh_TElrw-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&amp;nbsp; &amp;nbsp;- 수업 내용 문자 안내&lt;div&gt;&amp;nbsp; &amp;nbsp;- 공지사항 문자 발송&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- 학부모 알림 서비스&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="PL_vA-EPefCiQh_TElrw-30" edge="1" parent="1" source="PL_vA-EPefCiQh_TElrw-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PL_vA-EPefCiQh_TElrw-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PL_vA-EPefCiQh_TElrw-24" parent="1" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;" value="&lt;div&gt;만족도 조사&lt;br&gt;&lt;/div&gt;&lt;div&gt;관리&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="90" x="380.5" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="PL_vA-EPefCiQh_TElrw-35" edge="1" parent="1" source="PL_vA-EPefCiQh_TElrw-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PL_vA-EPefCiQh_TElrw-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PL_vA-EPefCiQh_TElrw-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&amp;nbsp; &amp;nbsp;- 학생 만족도 조사&lt;div&gt;&amp;nbsp; &amp;nbsp;- 학부모 만족도 조사&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- 자동 결과 분석&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="365.5" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="PL_vA-EPefCiQh_TElrw-36" edge="1" parent="1" source="PL_vA-EPefCiQh_TElrw-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PL_vA-EPefCiQh_TElrw-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PL_vA-EPefCiQh_TElrw-33" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" value="운영 데이터 통합" vertex="1">
+          <mxGeometry height="60" width="100" x="375.5" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="PL_vA-EPefCiQh_TElrw-38" edge="1" parent="1" source="PL_vA-EPefCiQh_TElrw-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PL_vA-EPefCiQh_TElrw-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PL_vA-EPefCiQh_TElrw-34" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" value="교사용 통계 및&lt;div&gt;보고서&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="375.5" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="PL_vA-EPefCiQh_TElrw-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&amp;nbsp; &amp;nbsp;- 프로그램 참여 학생 수&lt;div&gt;&amp;nbsp; &amp;nbsp;- 출석률 통계&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- 프로그램 만족도 분석&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;- 방과후 학교 운영 보고서 자동 생성&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="194.5" x="328.25" y="830" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
